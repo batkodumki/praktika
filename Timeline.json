@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "name": "Владислав",
+      "doctor": "Доктор Акане",
+      "description": "Full-stack Web Development, GenAI/LLM, Project Management, Business Development",
+      "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock1.png"
+    },
+    {
+      "name": "Клонекс",
+      "doctor": "Лікар Хайдзен",
+      "description": "Frontend Development, Backend Development, User Experience, Team Leading",
+      "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock2.png"
+    },
+    {
+      "name": "Тайлер",
+      "doctor": "Доктор Юкіко",
+      "description": "Full-stack Development, API Development, User Experience",
+      "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock3.png"
+    },
+    {
+      "name": "Шрек",
+      "doctor": "Цілителька Майя",
+      "description": "Automation, Data Governance, Statistical Analysis",
+      "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock4.png"
+    }
+  ]
+}
