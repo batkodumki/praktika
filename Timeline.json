@@ -2,20 +2,20 @@
   "reviews": [
     {
       "name": "Владислав",
-      "doctor": "Доктор Акане",
-      "description": "Full-stack Web Development, GenAI/LLM, Project Management, Business Development",
+      "doctor": "Лікар Хайдзен",
+      "description": "Його методи були незвичні, часом навіть жорсткі, але ефективні. Він не просто вилікував мої легені — він навчив мене правильно дихати, контролювати кожен вдих і видих, відчувати, як повітря наповнює мене силою. Тепер я дихаю вільно. І, що важливіше, живу по-новому.",
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock1.png"
     },
     {
-      "name": "Клонекс",
-      "doctor": "Лікар Хайдзен",
-      "description": "Frontend Development, Backend Development, User Experience, Team Leading",
+      "name": "Джек",
+      "doctor": "Доктор Акане",
+      "description": "Я вже змирився, що біль у руці стане моїм вічним супутником. Вона знайшла причину, яку інші лікарі навіть не помічали, і дала мені шанс знову відчути силу у власному тілі.",
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock2.png"
     },
     {
       "name": "Тайлер",
       "doctor": "Доктор Юкіко",
-      "description": "Full-stack Development, API Development, User Experience",
+      "description": "Вона допомогла мені подолати тривогу, відкривши мені шлях до гармонії з природою та самим собою. Її методи унікальні – спілкування серед дерев, ароматерапія та глибокі розмови змусили мене відчути себе цілісною людиною.",
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock3.png"
     },
     {
