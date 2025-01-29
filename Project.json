@@ -2,26 +2,6 @@
   "title": "Наші Лікарі",
   "projects": [
     {
-      "name": "Filmate AI",
-      "description": "Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.",
-      "image": "https://github.com/batkodumki/praktika/blob/3c8aa64605a2b2354bb1f8dcc97220e5b0d7e0a5/mock10.png"
-    },
-    {
-      "name": "High Speed Chase",
-      "description": "Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.",
-      "image": "https://github.com/batkodumki/praktika/blob/2578c136739a070413a2011787f8c673384366c4/mock09.png"
-    },
-    {
-      "name": "Astro Raiders",
-      "description": "Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.",
-      "image": "https://github.com/batkodumki/praktika/blob/2578c136739a070413a2011787f8c673384366c4/mock08.png"
-    },
-    {
-      "name": "Datum: Integrated Learning Platform",
-      "description": "This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.",
-      "image": "https://github.com/batkodumki/praktika/blob/2578c136739a070413a2011787f8c673384366c4/mock07.png"
-    },
-    {
       "name": "Лісова цілителька Майя",
       "description": "Майя – лікарка, яка спеціалізується на догляді за хворими тваринами та магічними істотами в лісових глибинах. Вона використовує природні ресурси, трави та енергію лісу, щоб лікувати поранення.",
       "image": "https://github.com/batkodumki/praktika/blob/2578c136739a070413a2011787f8c673384366c4/mock06.png"
