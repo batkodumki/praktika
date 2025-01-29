@@ -19,9 +19,9 @@
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock3.png"
     },
     {
-      "name": "Шрек",
-      "doctor": "Цілителька Майя",
-      "description": "Automation, Data Governance, Statistical Analysis",
+      "name": "Гном Фламберр",
+      "doctor": "Доктор Сільвервуд",
+      "description": "Доктор Сільвервуд – це справжня легенда. Його погляд проникає крізь саму суть хвороби, а руки творять дива. Хоч він і здається холодним, але насправді його серце таке ж тепле, як моє полум'я!",
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock4.png"
     }
   ]
