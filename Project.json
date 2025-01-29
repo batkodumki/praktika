@@ -1,0 +1,55 @@
+{
+  "title": "Наші Лікарі",
+  "projects": [
+    {
+      "name": "Filmate AI",
+      "description": "Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.",
+      "image": "https://example.com/mock10.png"
+    },
+    {
+      "name": "High Speed Chase",
+      "description": "Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.",
+      "image": "https://example.com/mock09.png"
+    },
+    {
+      "name": "Astro Raiders",
+      "description": "Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.",
+      "image": "https://example.com/mock08.png"
+    },
+    {
+      "name": "Datum: Integrated Learning Platform",
+      "description": "This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.",
+      "image": "https://example.com/mock07.png"
+    },
+    {
+      "name": "Лісова цілителька Майя",
+      "description": "Майя – лікарка, яка спеціалізується на догляді за хворими тваринами та магічними істотами в лісових глибинах. Вона використовує природні ресурси, трави та енергію лісу, щоб лікувати поранення.",
+      "image": "https://example.com/mock06.png"
+    },
+    {
+      "name": "Доктор Акане",
+      "description": "Молода й енергійна лікарка, яка спеціалізується на природній медицині та лікуванні за допомогою рослин. Вона проводить багато часу в лісах, де збирає рідкісні трави і квіти для створення своїх ліків.",
+      "image": "https://example.com/mock05.png"
+    },
+    {
+      "name": "Хайдзен – Лікар зими",
+      "description": "Доктор Хайдзен — загадковий медик, який працює в найхолодніших куточках світу. Його спеціалізація — лікування в умовах екстремального холоду та робота з рідкісними кріогенними технологіями. Завдяки своїм знанням він лікує хвороби дихальної системи.",
+      "image": "https://example.com/mock04.png"
+    },
+    {
+      "name": "Доктор Юкіко – Цілителька душі",
+      "description": "Тепла і доброзичлива лікарка, яка спеціалізується на психічному здоров’ї та емоційному благополуччі. Вона вірить, що природа має цілющу силу для зцілення душі, і часто проводить сеанси на відкритому повітрі, серед зелені та співу птахів.",
+      "image": "https://example.com/mock03.png"
+    },
+    {
+      "name": "Transfer Evaluation Matrix",
+      "description": "Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.",
+      "image": "https://example.com/mock02.png"
+    },
+    {
+      "name": "Submeowrine",
+      "description": "Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.",
+      "image": "https://example.com/mock01.png"
+    }
+  ]
+}
