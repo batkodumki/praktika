@@ -1,5 +1,5 @@
 {
-  "title": "Наші Лікаріі",
+  "title": "Наші Лікарі",
   "projects": [
     {
       "name": "Лісова цілителька Майя",
@@ -22,13 +22,13 @@
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock03.png"
     },
     {
-      "name": "Transfer Evaluation Matrix",
-      "description": "Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.",
+      "name": "Мелісса Верден - Медсестра",
+      "description": "Мелісса — головна цілителька лісового села, майстриня траволікування та природної магії. Вона знається на рідкісних еліксирах, які лікують як фізичні, так і душевні рани. Завжди носить із собою стетоскоп та пляшечку з цілющим настоєм.",
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock02.png"
     },
     {
-      "name": "Submeowrine",
-      "description": "Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.",
+      "name": "Доктор Сільвервуд",
+      "description": "Доктор Сільвервуд — старший лікар лісового села, знаний своєю мудрістю та холоднокровністю. Його методи лікування поєднують сучасну медицину з давніми знаннями природи.",
       "image": "https://raw.githubusercontent.com/batkodumki/praktika/refs/heads/main/mock01.png"
     }
   ]
